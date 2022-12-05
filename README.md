@@ -19,7 +19,7 @@ Java8，MySQL8，SpringBoot，MyBatisPlus，WebMagic
 
 十分的简单
 
-先创建表，然后启动项目即可
+先创建库amazon，然后创建表，修改application.yml的数据库信息为自己的然后启动项目即可
 
 打开swagger文档
 
